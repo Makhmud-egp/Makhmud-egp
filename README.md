@@ -166,7 +166,7 @@ currently_learning = {
 
 ---
 
-## 💬 Falsafam
+## 💬 Shiorim
 
 ```python
 class Developer:
