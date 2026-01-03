@@ -101,17 +101,19 @@ Collection of projects focusing on specific technologies:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makhmud-egp&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makhmud-egp&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Makhmud-egp&theme=radical&hide_border=true)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makhmud-egp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Makhmud-egp)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makhmud-egp&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Makhmud-egp)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Makhmud-egp&theme=tokyonight&hide_border=true)](https://github.com/Makhmud-egp)
 
 </div>
+
+> **Note:** If stats don't load, check my [GitHub profile](https://github.com/Makhmud-egp) directly for latest activity.
 
 ---
 
@@ -224,10 +226,12 @@ print(me.work_philosophy())
 ## 📈 Contribution Activity
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Makhmud-egp&theme=react-dark&hide_border=true&area=true)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Makhmud-egp&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Makhmud-egp)
 
 </div>
+
+> **Tip:** GitHub widgets may take time to load or might be temporarily unavailable.
 
 ---
 
