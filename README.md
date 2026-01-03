@@ -1,244 +1,222 @@
-<!-- ## Hi there 👋
-
-<!--
-**Makhmud-egp/Makhmud-egp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Assalomu alaykum, men Makhmud!
-
+👋 Assalomu alaykum, men Makhmud!
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Makhmud-egp&color=blueviolet&style=flat-square&label=Profile+Views)
-  
+Show Image
+
 </div>
+🚀 Python Backend Developer
+Building scalable and maintainable backend systems with modern technologies. Specializing in FastAPI, Flask, REST APIs, and authentication systems.
 
-## 🚀 Python Backend Developer | AI Enthusiast | Data Engineering Explorer
+"Creating robust backend solutions and continuously improving through hands-on projects"
 
-Men **Python** orqali **backend**, **AI** va **data engineering** sohasida ish olib boraman. Real loyihalarning **Demo va MVP** versiyalarini mustaqil ravishda ishlab chiqaman va o'rgangan bilimlarimni boshqalar bilan ulashishni yaxshi ko'raman.
+Currently expanding expertise in FastAPI, JWT Authentication, OAuth2, PostgreSQL and working with real-time systems through production-ready applications.
 
-> *"O'rgangan bilimlarni boshqalarga o'rgatishlik ham savob, ham oliyjanoblik"*
+🛠️ Tech Stack
+Backend Development:
 
-Men eng zo'r dasturchi bo'lish orzusida emasman - lekin **har bir bilimni puxta o'rganish** va **boshqalarga beminnat o'rgatish**da o'zimga maqsad qo'yganman.
-
----
-
-## 🛠️ Tech Stack
-
-**Backend Development:**
-```python
+python
 languages = ["Python", "SQL"]
-frameworks = ["Flask", "SQLAlchemy"]
-databases = ["SQLite", "PostgreSQL"]
-apis = ["REST API", "Stripe Integration"]
-```
+frameworks = ["FastAPI", "Flask", "SQLAlchemy"]
+databases = ["PostgreSQL", "SQLite"]
+apis = ["REST API", "JWT", "OAuth2", "Stripe Integration"]
+testing = ["Pytest", "Swagger/OpenAPI"]
+Currently Learning:
 
-**AI & Data:**
-```python
-exploring = ["Machine Learning", "Data Analysis", "AI Integration"]
-tools = ["Pandas", "NumPy", "Data Pipelines"]
-```
+python
+exploring = ["Machine Learning", "Data Engineering", "AI Integration"]
+devops = ["Docker", "CI/CD", "Cloud Deployment"]
+tools = ["Redis", "Celery", "WebSocket"]
+Tools & Technologies:
 
-**Tools & Technologies:**
-- 🐙 Git & GitHub
-- 💳 Payment Integration (Stripe)
-- 🔐 Authentication & Security
-- 🐳 Docker (learning)
-- ☁️ Cloud Deployment
+🐙 Git & GitHub
+🔐 JWT & OAuth2 Authentication
+💳 Payment Integration (Stripe API)
+🧪 Testing (Pytest, Unit Tests)
+📚 API Documentation (Swagger)
+☁️ Cloud Deployment (PythonAnywhere)
+💼 Featured Projects
+🛒 E-Commerce Platform with Payment Integration
+Full-stack e-commerce platform built from scratch with secure payment processing and admin management.
 
----
+Key Features:
 
-## 💼 Featured Projects
+✅ User authentication & authorization system
+✅ Product catalog with categories
+✅ Shopping cart functionality
+✅ Stripe payment integration (secure checkout)
+✅ Order management & tracking
+✅ Admin dashboard (CRUD operations)
+✅ Responsive design (mobile-friendly)
+✅ Deployed to production (99% uptime)
+Tech Stack: Python · Flask · SQLAlchemy · Stripe API · SQLite · Bootstrap
 
-### 🛒 [E-Commerce Platform with Stripe Payment](https://github.com/Makhmud-egp/ecommerce-flask)
+🔗 Live Demo · 📁 Source Code
 
-To'liq funksional e-commerce platformasi - mustaqil ishlab chiqilgan MVP versiyasi.
+💡 Test with card: 4242 4242 4242 4242 | Expiry: any future date | CVC: any 3 digits
 
-**Key Features:**
-- ✅ User authentication & authorization system
-- ✅ Product catalog with categories
-- ✅ Shopping cart functionality
-- ✅ **Stripe payment integration** (test mode)
-- ✅ Order management system
-- ✅ Admin dashboard
-- ✅ Responsive design
+🎮 Multiplayer Tic-Tac-Toe (In Development)
+Real-time multiplayer game showcasing modern backend architecture and authentication patterns.
 
-**Tech Stack:** `Python` · `Flask` · `SQLAlchemy` · `Stripe API` · `SQLite` · `Bootstrap`
+Planned Features:
 
-**🔗 [Live Demo](https://makhmudegp.pythonanywhere.com)** · **📁 [Source Code](https://github.com/Makhmud-egp/ecommerce-flask)**
+🔐 JWT Authentication
+🔑 GitHub OAuth integration
+⚡ Real-time gameplay (WebSocket)
+🎯 Matchmaking system
+🏆 Leaderboard & rankings
+🗄️ PostgreSQL database
+🧪 Comprehensive testing (Pytest)
+Tech Stack: FastAPI · SQLAlchemy · PostgreSQL · JWT · OAuth2 · WebSocket · Pytest
 
-> 💡 Test with card: `4242 4242 4242 4242` | Expiry: any future date | CVC: any 3 digits
+📁 View Progress
 
----
+🚧 Currently implementing authentication system and core game logic
 
-### 🎮 Mini Projects & Learning Journey
+💡 Practice & Learning Projects
+Collection of projects focusing on specific technologies:
 
-O'rganish jarayonida qilgan mini loyihalar:
-- 🎯 Tic-Tac-Toe Game
-- 🧮 Calculator Applications
-- 📊 Data Analysis Scripts
-- 🤖 AI/ML Experiments
-
-*Har bir loyiha - yangi bilim va ko'nikma. Kichik loyihalar katta maqsadlarga yo'l ochadi!*
-
----
-
-## 📊 GitHub Statistics
-
+🔌 RESTful API development with FastAPI
+🗄️ CRUD operations with SQLAlchemy
+🔐 Authentication systems (JWT, OAuth)
+🧪 Test-driven development (Pytest)
+📊 Data analysis scripts
+🤖 AI/ML experiments
+📊 GitHub Statistics
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makhmud-egp&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makhmud-egp&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Makhmud-egp&theme=radical&hide_border=true)
+Show Image
+
+Show Image
+
+Show Image
 
 </div>
-
----
-
-## 🎯 Hozirgi Maqsadlar
-
-- 🔍 **Ish Qidirish:** Junior Backend Developer / Python Developer pozitsiyasi
-- 📚 **O'rganish:** Data Engineering, AI/ML integration, Docker, Cloud technologies
-- 🤝 **Ulashish:** O'rgangan bilimlarni boshqalar bilan bo'lishish
-- 🚀 **Qurish:** Real loyihalarning MVP versiyalarini yaratish
-
----
-
-## 💡 Nima qila olaman?
-
-### ✅ Backend Development
-- RESTful API development
-- Database design va optimization
-- User authentication & authorization
-- Third-party integrations (Stripe, etc.)
-
-### ✅ Problem Solving
-- Algorithmic thinking
-- Debugging & troubleshooting
-- Code optimization
-- System design (learning)
-
-### ✅ Collaboration
-- Git workflow
-- Code documentation
-- Knowledge sharing
-- Team communication
-
----
-
-## 🌱 O'rganayotgan Texnologiyalar
-
-```python
-currently_learning = {
-    "Data Engineering": ["ETL Pipelines", "Data Warehousing"],
-    "AI & ML": ["Scikit-learn", "TensorFlow Basics"],
-    "DevOps": ["Docker", "CI/CD"],
-    "Cloud": ["AWS Basics", "Deployment Strategies"]
+🎯 Current Focus
+🔍 Job Search: Junior Backend Developer / Python Developer position
+📚 Learning: FastAPI, JWT/OAuth2, PostgreSQL, Docker, Testing (Pytest)
+🚀 Building: Production-ready applications with modern tech stack
+🤝 Goal: Work with professional teams on real-world projects
+💡 What I Can Do
+✅ Backend Development
+RESTful API design & implementation
+Database design & optimization (PostgreSQL, SQLite)
+Authentication & authorization (JWT, OAuth2)
+Third-party integrations (Stripe, payment gateways)
+API documentation (Swagger/OpenAPI)
+✅ Testing & Quality
+Unit testing with Pytest
+Test-driven development (TDD)
+API testing
+Code documentation
+✅ Development Practices
+Git workflow & version control
+Clean code principles
+CRUD operations
+Error handling & logging
+Security best practices
+🌱 Currently Learning
+python
+learning_path = {
+    "Backend": ["FastAPI mastery", "Advanced SQLAlchemy", "Async programming"],
+    "Authentication": ["JWT implementation", "OAuth2 flows", "Security best practices"],
+    "Databases": ["PostgreSQL optimization", "Database indexing", "Query optimization"],
+    "Testing": ["Pytest advanced", "Integration testing", "Test coverage"],
+    "DevOps": ["Docker basics", "CI/CD pipelines", "Cloud deployment"],
+    "AI & ML": ["Scikit-learn", "TensorFlow basics", "ML integration"]
 }
-```
-
----
-
-## 📫 Bog'lanish
-
+📫 Connect With Me
 <div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makhmud-djalolov-8928b332b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osonpy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Makhmud-egp)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://makhmud-egp.github.io)
-
-**📍 Tashkent, Uzbekistan**
+📍 Tashkent, Uzbekistan
 
 </div>
-
----
-
-## 💬 Shiorim
-
-```python
-class Developer:
+💬 My Approach
+python
+class BackendDeveloper:
     def __init__(self):
-        self.mindset = "Growth Mindset"
-        self.goal = "Master what I learn"
-        self.mission = "Share knowledge generously"
+        self.name = "Makhmud"
+        self.role = "Python Backend Developer"
+        self.focus = ["FastAPI", "Flask", "PostgreSQL", "JWT/OAuth"]
+        self.learning_style = "Hands-on projects"
     
-    def approach(self):
+    def work_philosophy(self):
         return """
-        Eng zo'r dasturchi bo'lish emas,
-        Balki har bir bilimni puxta o'rganish,
-        Va boshqalarga beminnat o'rgatish -
-        Bu mening yo'lim.
+        Building scalable systems with clean code.
+        Learning modern technologies through practice.
+        Contributing value to professional teams.
         """
+    
+    def current_goals(self):
+        return {
+            "short_term": "Master FastAPI & authentication systems",
+            "mid_term": "First professional backend developer role",
+            "long_term": "Contribute to large-scale production systems"
+        }
 
-me = Developer()
-print(me.approach())
-```
-
----
-
-## 🏆 Yutuqlar & Milestone'lar
-
-- ✅ Birinchi to'liq funksional web application (E-commerce)
-- ✅ Stripe payment integration muvaffaqiyatli amalga oshirildi
-- ✅ PythonAnywhere'ga loyiha deploy qilindi
-- 🎯 Birinchi professional ish (in progress...)
-- 🎯 Open source contribution (soon...)
-
----
-
-## 📈 Contribution Activity
-
+me = BackendDeveloper()
+print(me.work_philosophy())
+🏆 Achievements & Milestones
+✅ Built production e-commerce platform with payment integration
+✅ Deployed application to cloud (PythonAnywhere, 99% uptime)
+✅ Implemented secure Stripe payment processing
+✅ Completed FastAPI course (90% - authentication & testing modules)
+✅ Learning modern auth patterns (JWT, OAuth2)
+🎯 First professional role (in progress)
+🎯 Open source contribution (upcoming)
+📈 Contribution Activity
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Makhmud-egp&theme=react-dark&hide_border=true&area=true)
+Show Image
 
 </div>
+🤝 Why Work With Me
+💪 Fast Learner: Quickly adapt to new technologies and frameworks
+🎯 Committed: Complete tasks thoroughly with attention to detail
+📚 Self-Motivated: Learn independently through hands-on projects
+🔍 Quality-Focused: Write clean, tested, and documented code
+🤝 Team Player: Communicate well and collaborate effectively
+🚀 Proactive: Take initiative and solve problems independently
+📚 Learning Resources
+Completed:
 
----
+🎓 CS50 - Introduction to Computer Science (Harvard)
+🐍 100 Days of Python (Udemy) - In progress
+⚡ FastAPI from Scratch (90% complete)
+🎯 Python Programming (Stepik)
+💼 EPAM Python Development Course
+Currently Using:
 
-## 🤝 Men bilan ishlashning afzalliklari
+📖 FastAPI Documentation
+🐍 Python Official Docs
+🧪 Pytest Documentation
+🔐 OAuth 2.0 & JWT Resources
+💻 Real Python
+📊 Skills Proficiency
+Backend Frameworks:
 
-- 💪 **Tez o'rganaman:** Yangi texnologiyalarga tez moslashaman
-- 🎯 **Maqsadga yo'naltirilgan:** Har bir vazifani tugallayman
-- 📚 **Bilimni ulashaman:** Teamda o'rganganlarimni boshqalar bilan bo'lishaman
-- 🔍 **Detallarga e'tibor:** Clean code va best practices'ga amal qilaman
-- 🤝 **Hamkorlik:** Teamwork va communicationda yaxshiman
+FastAPI    ████████░░ 80%  (Learning & implementing)
+Flask      ██████████ 100% (Production experience)
+Django     ████░░░░░░ 40%  (Basic CRUD operations)
+Databases:
 
----
+PostgreSQL ███████░░░ 70%  (Learning optimization)
+SQLite     ██████████ 100% (Production use)
+SQLAlchemy ████████░░ 80%  (ORM expertise)
+Authentication:
 
-## 📚 Sevimli Resurslar
-
-- 📖 Clean Code - Robert C. Martin
-- 🎓 Real Python
-- 💻 Flask Documentation
-- 🐍 Python Official Docs
-- 🎯 LeetCode & HackerRank
-
----
-
+JWT        ███████░░░ 70%  (Currently implementing)
+OAuth2     ██████░░░░ 60%  (Learning flows)
+Sessions   ██████████ 100% (Flask-Login)
 <div align="center">
+💭 "Focus on building value, not just writing code"
+⭐ If you find my projects helpful, please star them!
 
-### 💭 "Code is poetry written in logic"
+🤝 Open to collaboration: osonpy@gmail.com
 
-**⭐ Agar loyihalarim yoqsa, star bering!**
+💼 Looking for Junior Backend Developer opportunities
 
-**🤝 Hamkorlik takliflari: [osonpy@gmail.com](mailto:osonpy@gmail.com)**
-
----
-
-*Oxirgi yangilanish: December 2024*
+Last Updated: January 2025
 
 </div>
